@@ -5,8 +5,7 @@
 <p align="center">
     <br>
     <a href="https://pd.qq.com/s/dzh3pm0at">图片社</a> |
-    <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=BjtFN8poTfGfkuuJHBBFXWOMoq6h3pb%2B5Yja0nKCn8t2H9SZ4YDiiSPWuAmwcnm4&busi_data=eyJncm91cENvZGUiOiIxOTY1Mzc4MzciLCJ0b2tlbiI6Ik1aMDZMK09uc250NUxFeXFKMEZncFhoc0FGeXlKMTcxTzdyeHIyb0UwQVBmNzg4VHV2dkZDc0xNNllDOWs0VVUiLCJ1aW4iOiIxMzExMzQ4MjIyIn0%3D&data=-FnWe_rbJhflzvVqdRpGmmvT5lu8h6GgRzrpIn9q4uAfS96SaZiiqG4EeQdJIG0grdbztm9bwi8YjBgtn6hm3Q&svctype=4&tempid=h5_group_info
-    ">闲聊群</a>
+    <a href="https://pd.qq.com/s/5cu1fi75n">图片社の通知指南</a>
      </p>
 </p> 
 <p align="center"><b><i
@@ -14,17 +13,26 @@
 
 ## 更新日志
 
-### 2025年9月
-[每日作品精选║25年9月](作品指南/图片社║每日作品精选║25年9月.md)  更新中  
-[热门选题＆夏日福利](作品指南/热门选题＆夏日福利.md)  更新中    
+### 2025年10月
+[图片社║每日作品精选║25年10月](作品指南/图片社║每日作品精选║25年10月.md)  更新中   
 [画师作品精选║T051-T100](作品指南/图片社║画师作品精选║T051-T100.md)  更新中  
 
-### 2025年
+### 2025年9月
+[每日作品精选║25年9月](作品指南/已完成/2025/图片社║每日作品精选║25年9月.md)  已完成  
+[热门选题＆夏日福利](作品指南/已完成/委托系列/热门选题＆夏日福利.md)  已完成    
+  
+
+### 2025年8月
+[每日作品精选║25年8月](作品指南/图片社║每日作品精选║25年8月.md)    
+
+### 2025年7月
+[每日作品精选║25年7月](作品指南/已完成/2025/图片社║每日作品精选║25年7月.md)
+### 2025年6月
 [[必看] 频道介绍](重要通知/[必看]%20频道介绍.md)  
 [画师𝗪𝗹𝗼𝗽║作品整理](作品指南/付费画师系列/图片社║画师𝗪𝗹𝗼𝗽║作品整理.md)  
-[每日作品精选║25年8月](作品指南/图片社║每日作品精选║25年8月.md)    
-[每日作品精选║25年7月](作品指南/已完成/2025/图片社║每日作品精选║25年7月.md)  
 [每日作品精选║25年6月](作品指南/已完成/2025/图片社║每日作品精选║25年6月.md)  
+
+### 2025年
 [求图委托合集║02](作品指南/已完成/委托系列/图片社║求图委托合集║02.md)  
 [每日作品精选║25年5月](作品指南/已完成/2025/图片社║每日作品精选║25年5月.md)   
 [每日作品精选║25年4月](作品指南/已完成/2025/图片社║每日作品精选║25年4月.md)   
@@ -41,27 +49,7 @@
 [其他更新](https://pan.baidu.com/s/1iQTDJDPA1ws-deHdgd3hYQ?pwd=huda)  
 
 ## 声明
-    本社分享的图片均来自互联网，仅供个人学习收藏使用，请勿用作商业用途和AI投喂。如有能力，请支持正版！
+本社分享的图片均来自互联网，仅供个人学习收藏使用，请勿用作商业用途和AI投喂。如有能力，请支持正版！
 
-## 打赏
-
-### 如果觉得本社的图片对您有用，可扫描下方二维码或者 [爱发电](https://afdian.com/a/ASHUHUDA) 随意打赏, 要是能打赏个 5 块 10 块 那可太👍了。您的支持就是我更新的动力！
-
-<table>
-<tr>
-<td align=center>支付宝</td>
-<td align=center>微信</td>
-</tr>
-
-<tr>
-<td>
-<img src="重要通知/.images/支付宝支付.png" width=200 >
-</td>
-<td>
-<img src="重要通知/.images/打赏.png" width="200" >
-</td>
-</tr>
-
-</table>
-
----
+## 赞助
+<p align="left"><img src="重要通知/打赏.png" width="200"></p>
