@@ -1,27 +1,19 @@
 <p align="center">
     <img src="https://wp-cdn.4ce.cn/v2/KIOEBCs.jpeg" align="center" width="25%">
 </p>
-<p align="center"><h1 align="center">图片社</h1></p>
-<p align="center">
-    <br>
-    <a href="https://pd.qq.com/s/dzh3pm0at">图片社</a> |
-    <a href="https://pd.qq.com/s/5cu1fi75n">图片社の通知指南</a>
-     </p>
-</p> 
+<p align="center"><h1 align="center"><a href="https://pd.qq.com/s/dzh3pm0at">图片社</a></h1></p>
 <p align="center"><b><i
 >推广与商务联系：QQ2194922376</i></b></p>
 
 ## 更新日志
 
-### 2025年10月
-[图片社║每日作品精选║25年10月](作品指南/图片社║每日作品精选║25年10月.md)  更新中   
+### 2025年11月
+[每日作品精选║25年11月](作品指南/图片社║每日作品精选║25年11月.md)  更新中   
 [画师作品精选║T051-T100](作品指南/图片社║画师作品精选║T051-T100.md)  更新中   
 
-### 2025年
-[图片社║2025年度总结](作品指南/已完成/2025/图片社║2025年度总结.md)  更新中  
-
-### 2024年
-[图片社║2024年度总结](作品指南/已完成/2024/图片社║2024年度总结.md)  
+### 年度总结
+[2025年度总结](作品指南/已完成/2025/图片社║2025年度总结.md)  更新中  
+[2024年度总结](作品指南/已完成/2024/图片社║2024年度总结.md)  
 
 ### 压缩包下载
 [每日作品 (HUDA)](https://pan.baidu.com/s/1gfkYIfZHgidxCGMfjr7JeA?pwd=huda#list/path=%2F)  
