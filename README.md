@@ -15,10 +15,7 @@
 [2025年度总结](作品指南/已完成/2025/图片社║2025年度总结.md)  更新中  
 [2024年度总结](作品指南/已完成/2024/图片社║2024年度总结.md)  
 
-### 压缩包下载
-[每日作品 (HUDA)](https://pan.baidu.com/s/1gfkYIfZHgidxCGMfjr7JeA?pwd=huda#list/path=%2F)  
-[画师分享](https://pan.baidu.com/s/13sAUu9k4yZ2jGV-bhoo92Q?pwd=huda)  
-[其他更新](https://pan.baidu.com/s/1iQTDJDPA1ws-deHdgd3hYQ?pwd=huda)  
+### 点击→ [<font color="#00b0f0">往期压缩包下载</font>](重要通知/往期压缩包下载.md)
 
 ## 声明
     本社分享的图片均来自互联网，仅供个人学习收藏使用，请勿用作商业用途和AI投喂。如有能力，请支持正版！
