@@ -19,9 +19,9 @@
 [2024年度总结](作品指南/已完成/2024/图片社║2024年度总结.md)  
 
 
-### 📂 资源归档
+### 资源下载
 
-<div align="center">
+<div>
 
 [![往期压缩包下载](https://img.shields.io/badge/📦_往期资源-压缩包下载-007bff?style=for-the-badge)](重要通知/往期压缩包下载.md)
 
@@ -36,7 +36,7 @@
 ### 如果觉得本社的图片对您有用，欢迎打赏支持！您的支持是我更新的动力！
 > 可扫描下方二维码或点击 [⚡️爱发电](https://afdian.com/a/ASHUHUDA) 随意打赏 (5元, 10元都是爱 ❤️)
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td align="center"><b>支付宝 (Alipay)</b></td>
