@@ -10,8 +10,8 @@
 
 ## 更新日志
 
-### 2026年1月
-[称号成员帮找图回馈](作品指南/称号成员帮找图回馈.md) 更新中   
+### 2026年4月
+[帮找图](作品指南/帮找图.md) 更新中   
 [画师作品精选║T101-T150](作品指南/图片社║画师作品精选║T101-T150.md)  更新中   
 
 ### 年度总结
@@ -23,7 +23,8 @@
 
 <div>
 
-[![往期压缩包下载](https://img.shields.io/badge/📦_往期资源-压缩包下载-007bff?style=for-the-badge)](重要通知/往期压缩包下载.md)
+[![图片社压缩包下载](https://img.shields.io/badge/📦_图片社-压缩包下载-007bff?style=for-the-badge)](重要通知/往期压缩包下载-图片社.md)
+[![剪藏社压缩包下载](https://img.shields.io/badge/📦_剪藏社-压缩包下载-007bff?style=for-the-badge)](重要通知/往期压缩包下载-剪藏社.md)
 
 </div>
 
@@ -47,4 +48,12 @@
       <td><img src="重要通知/.images/打赏.png" width="200"></td>
     </tr>
   </table>
-</div>---
+</div>
+
+---
+
+### QQ群
+
+- 图片社 (签到群)：[196537837](https://qun.qq.com/universal-share/share?ac=1&authKey=h28VccTj1Plnz0kVA%2FAqXjz%2FlBPYPlouNPJF9b2cIaeHt50jeJ7X5ProhRnXdKVE&busi_data=eyJncm91cENvZGUiOiIxOTY1Mzc4MzciLCJ0b2tlbiI6InNyME15d1crKzJsa2tCYWtsVTEvTkRteDdlUmprTHdheFg0QzhoZ0RZOHRad0trYkV3dzE5MmJjNlpRbFRyUUMiLCJ1aW4iOiIxMzExMzQ4MjIyIn0%3D&data=oMRQYqIq1WOgQ1AIm0V5-SKoLL12U0KTA3R38cO4TFboZHsxCo6APM87uK0mbGiEmduhR4aNizyjPpipyaAz5w&svctype=4&tempid=h5_group_info)  
+- 图片社 (闲聊群)：[230480917](https://qun.qq.com/universal-share/share?ac=1&authKey=RgcR%2FyuLsRhMOa69kwtpiFraqTUAi%2FTphWuv3%2F%2BDIMxInWrXotXialdYuskvTimT&busi_data=eyJncm91cENvZGUiOiIyMzA0ODA5MTciLCJ0b2tlbiI6IlFsaVZoSmFhVyt4dThKSFJXWTd5RU5WMGtuNmpFSU44dUhGM2JFQTM4MG1sTzI0UXZETWV3SS9ZUXdsdisxQ0ciLCJ1aW4iOiIxMzExMzQ4MjIyIn0%3D&data=hDKRLL1O4gXO4H-m1JMJRPEB_WB7F0UVa6DOrHLOhKLD3Rfb3tXzJpx0PjkCjyo1xsU8sQvt2qciCEd-QcRvyg&svctype=4&tempid=h5_group_info)
+
