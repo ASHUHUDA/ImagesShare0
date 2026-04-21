@@ -23,7 +23,7 @@
 
 <div>
 
-[![图片社压缩包下载](https://img.shields.io/badge/📦_图片社-压缩包下载-007bff?style=for-the-badge)](重要通知/往期压缩包下载-图片社.md)
+[![图片社压缩包下载](https://img.shields.io/badge/📦_图片社-压缩包下载-007bff?style=for-the-badge)](重要通知/往期压缩包下载-图片社.md)  
 [![剪藏社压缩包下载](https://img.shields.io/badge/📦_剪藏社-压缩包下载-007bff?style=for-the-badge)](重要通知/往期压缩包下载-剪藏社.md)
 
 </div>
